@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UNIVERSIDAD\\8vo semestrish\\Analisis de sistemas II\\PracticaNo3\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1957E3B-53CF-4A24-92FA-8421F71FFFF8}|WebApplication1\\WebApplication1.csproj|d:\\universidad\\8vo semestrish\\analisis de sistemas ii\\practicano3\\webapplication1\\webapplication1\\repositories\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1957E3B-53CF-4A24-92FA-8421F71FFFF8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\repositories\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1957E3B-53CF-4A24-92FA-8421F71FFFF8}|WebApplication1\\WebApplication1.csproj|d:\\universidad\\8vo semestrish\\analisis de sistemas ii\\practicano3\\webapplication1\\webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C1957E3B-53CF-4A24-92FA-8421F71FFFF8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1957E3B-53CF-4A24-92FA-8421F71FFFF8}|WebApplication1\\WebApplication1.csproj|d:\\universidad\\8vo semestrish\\analisis de sistemas ii\\practicano3\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1957E3B-53CF-4A24-92FA-8421F71FFFF8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1957E3B-53CF-4A24-92FA-8421F71FFFF8}|WebApplication1\\WebApplication1.csproj|d:\\universidad\\8vo semestrish\\analisis de sistemas ii\\practicano3\\webapplication1\\webapplication1\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1957E3B-53CF-4A24-92FA-8421F71FFFF8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1957E3B-53CF-4A24-92FA-8421F71FFFF8}|WebApplication1\\WebApplication1.csproj|d:\\universidad\\8vo semestrish\\analisis de sistemas ii\\practicano3\\webapplication1\\webapplication1\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1957E3B-53CF-4A24-92FA-8421F71FFFF8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1957E3B-53CF-4A24-92FA-8421F71FFFF8}|WebApplication1\\WebApplication1.csproj|d:\\universidad\\8vo semestrish\\analisis de sistemas ii\\practicano3\\webapplication1\\webapplication1\\services\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1957E3B-53CF-4A24-92FA-8421F71FFFF8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1957E3B-53CF-4A24-92FA-8421F71FFFF8}|WebApplication1\\WebApplication1.csproj|d:\\universidad\\8vo semestrish\\analisis de sistemas ii\\practicano3\\webapplication1\\webapplication1\\repositories\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1957E3B-53CF-4A24-92FA-8421F71FFFF8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\repositories\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1957E3B-53CF-4A24-92FA-8421F71FFFF8}|WebApplication1\\WebApplication1.csproj|d:\\universidad\\8vo semestrish\\analisis de sistemas ii\\practicano3\\webapplication1\\webapplication1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1957E3B-53CF-4A24-92FA-8421F71FFFF8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1957E3B-53CF-4A24-92FA-8421F71FFFF8}|WebApplication1\\WebApplication1.csproj|d:\\universidad\\8vo semestrish\\analisis de sistemas ii\\practicano3\\webapplication1\\webapplication1\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1957E3B-53CF-4A24-92FA-8421F71FFFF8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebApplication1",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\8vo semestrish\\Analisis de sistemas II\\PracticaNo3\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.csproj",
+              "ToolTip": "D:\\UNIVERSIDAD\\8vo semestrish\\Analisis de sistemas II\\PracticaNo3\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeToolTip": "WebApplication1\\WebApplication1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-25T05:02:54.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductoService.cs",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\8vo semestrish\\Analisis de sistemas II\\PracticaNo3\\WebApplication1\\WebApplication1\\Services\\ProductoService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\ProductoService.cs",
+              "ToolTip": "D:\\UNIVERSIDAD\\8vo semestrish\\Analisis de sistemas II\\PracticaNo3\\WebApplication1\\WebApplication1\\Services\\ProductoService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\ProductoService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA/wBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T05:13:05.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductoRepository.cs",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\8vo semestrish\\Analisis de sistemas II\\PracticaNo3\\WebApplication1\\WebApplication1\\Repositories\\ProductoRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Repositories\\ProductoRepository.cs",
+              "ToolTip": "D:\\UNIVERSIDAD\\8vo semestrish\\Analisis de sistemas II\\PracticaNo3\\WebApplication1\\WebApplication1\\Repositories\\ProductoRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Repositories\\ProductoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T05:12:15.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\8vo semestrish\\Analisis de sistemas II\\PracticaNo3\\WebApplication1\\WebApplication1\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\ProductosController.cs",
+              "ToolTip": "D:\\UNIVERSIDAD\\8vo semestrish\\Analisis de sistemas II\\PracticaNo3\\WebApplication1\\WebApplication1\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA7wCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T05:13:33.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\8vo semestrish\\Analisis de sistemas II\\PracticaNo3\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "D:\\UNIVERSIDAD\\8vo semestrish\\Analisis de sistemas II\\PracticaNo3\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T05:01:00.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductoService.cs",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\8vo semestrish\\Analisis de sistemas II\\PracticaNo3\\WebApplication1\\WebApplication1\\Services\\IProductoService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\IProductoService.cs",
+              "ToolTip": "D:\\UNIVERSIDAD\\8vo semestrish\\Analisis de sistemas II\\PracticaNo3\\WebApplication1\\WebApplication1\\Services\\IProductoService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\IProductoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T05:12:43.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductoRepository.cs",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\8vo semestrish\\Analisis de sistemas II\\PracticaNo3\\WebApplication1\\WebApplication1\\Repositories\\IProductoRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Repositories\\IProductoRepository.cs",
+              "ToolTip": "D:\\UNIVERSIDAD\\8vo semestrish\\Analisis de sistemas II\\PracticaNo3\\WebApplication1\\WebApplication1\\Repositories\\IProductoRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Repositories\\IProductoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T05:11:54.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\8vo semestrish\\Analisis de sistemas II\\PracticaNo3\\WebApplication1\\WebApplication1\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\UNIVERSIDAD\\8vo semestrish\\Analisis de sistemas II\\PracticaNo3\\WebApplication1\\WebApplication1\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T05:08:46.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\8vo semestrish\\Analisis de sistemas II\\PracticaNo3\\WebApplication1\\WebApplication1\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Producto.cs",
+              "ToolTip": "D:\\UNIVERSIDAD\\8vo semestrish\\Analisis de sistemas II\\PracticaNo3\\WebApplication1\\WebApplication1\\Models\\Producto.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T05:08:11.693Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
